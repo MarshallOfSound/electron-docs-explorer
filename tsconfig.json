@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "lib": [
+      "es2017"
+    ],
+    "sourceMap": true,
+    "strict": true,
+    "outDir": "dist",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "jsx": "react",
+    "incremental": true
+  },
+  "include": [
+    "src",
+    "typings"
+  ]
+}
