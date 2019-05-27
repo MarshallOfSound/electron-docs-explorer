@@ -12,7 +12,8 @@
     "pretty": "prettier --write \"src/**/*.{ts,tsx}\""
   },
   "files": [
-    "dist"
+    "dist",
+    "electron-api.json"
   ],
   "dependencies": {
     "fuse.js": "^3.4.4",
